@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/app/precache-manifest.bcbe32d6fa52c6bd408389d9f32595a0.js"
+  "/app/precache-manifest.0deabafab9690023a64291cfc1120f4d.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "memoire-flash"});
